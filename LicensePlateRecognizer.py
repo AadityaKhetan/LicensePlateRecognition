@@ -2,8 +2,7 @@
 """
 Created on Fri May  8 16:25:27 2020
 
-@author: Sanyukta
-"""
+
 
 
 import cv2
