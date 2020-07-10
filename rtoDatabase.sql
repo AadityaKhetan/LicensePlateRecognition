@@ -21,7 +21,5 @@ insert into vehicle_details values('KL65K7111','2012-09-13','LMV-NT','Rajesh Sha
 use rto;
  select * from vehicle_details;
  
- insert into vehicle_details values('GJ15PP2948','2002-05-11','LMV-NT','Ankit Bajpayee','99213400077','18it050@charusat.edu.in','GJ1520107894242',"Rajmoti apartments",'Valsad','Gujarat');
  
- insert into vehicle_details values('GJ15CG4272','2019-06-10','LMV-NT','Sudhakar Khetan','9879360355','sudhakarkhetan@gmail.com','GJ151112234875',"Asopalav Society",'Vapi','Gujarat');
- insert into vehicle_details values('KL59T997','2015-02-28','LMV-NT','Sanvi Panchal','77456008899','18it052@charusat.edu.in','KL591112223334',"Evershine towers",'Kochi','Kerela');
+ 
