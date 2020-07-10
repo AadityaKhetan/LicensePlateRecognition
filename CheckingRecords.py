@@ -2,7 +2,6 @@
 """
 Created on Wed May 13 16:41:50 2020
 
-@author: Sanyukta
 """
 
 
