@@ -8,5 +8,7 @@ This application extracts the number plate Region from the raw, original car ima
 
 Therefore getting the license plate number as a string.
 
-License Plate number is then searched in the dummy rto Database and a real time e-mail is sent to the car owner using SMTPlib.  
+License Plate number is then searched in the dummy rto Database and a real time e-mail is sent to the car owner using SMTPlib.
+
+My Blog : https://licenseplaterecognizer.blogspot.com/
 
